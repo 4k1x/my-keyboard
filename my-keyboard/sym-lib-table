@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name keyboard_parts_TMK)(type Legacy)(uri C:/Users/akix/Documents/GitHub/my-keyboard/my-keyboard/lib/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name "keyboard_parts_TMK")(type "Legacy")(uri "C:/Users/akix/Documents/GitHub/my-keyboard/my-keyboard/lib/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "sdf")(type "Legacy")(uri "${KIPRJMOD}/lib/kicad_lib_tmk/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/lib/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/lib/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
 )
