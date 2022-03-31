@@ -1,0 +1,6 @@
+[submodule "my-keyboard/lib/marbastlib"]
+	path = my-keyboard/lib/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
+[submodule "my-keyboard/lib/kicad_lib_tmk"]
+	path = my-keyboard/lib/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git

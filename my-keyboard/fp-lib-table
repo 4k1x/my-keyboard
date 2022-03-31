@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name marbastlib-various.pretty)(type Legacy)(uri C:/Users/akix/Documents/GitHub/my-keyboard/my-keyboard/lib/marbastlib/marbastlib-various.pretty)(options "")(descr ""))
+  (lib (name marbastlib-mx.pretty)(type KiCad)(uri C:/Users/akix/Documents/GitHub/my-keyboard/my-keyboard/lib/marbastlib/marbastlib-mx.pretty)(options "")(descr "")(disabled))
+)
